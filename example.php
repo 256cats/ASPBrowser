@@ -1,3 +1,4 @@
+<?php
 include_once __DIR__.'/simple_html_dom.php';
 include_once __DIR__.'/ASPBrowser.php';
                                        
